@@ -7,7 +7,7 @@
 //
 // First tell git to ignore changes to this file:
 //
-// git update-index --assume-unchanged include/ssid_config.h
+// git update-index --assume-unchanged src/config.h
 //
 // Then, enter your SSID and passphrase below and it will never be committed
 // to Github.
