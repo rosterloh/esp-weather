@@ -9,3 +9,8 @@ Modify [config.h](https://github.com/rosterloh/esp-weather/src/config.h) to remo
 ```
 $ pio run
 ```
+
+## Flashing
+```
+$ pio run --target upload
+```
